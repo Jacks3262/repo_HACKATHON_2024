@@ -1,2 +1,2 @@
 # repo_HACKATHON_2024
-Repositorio oficial del equipo Datacoders, donde se realizaron análisis para la organización de Capital One en el HACKATHON 2024.
+Official Datacoders' repo, where multiple instances were analyzed for the bank holding company ***Capital One*** during HACKMTY 2024.
