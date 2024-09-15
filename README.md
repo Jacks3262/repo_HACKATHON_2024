@@ -30,13 +30,9 @@ Contains the .py and .ipynb codes for solving the stated problem.
 * **Modelos_Convencionales.ipynb:** Based on **fraud.csv**, conventional Machine Learning models are generated for the detection of fraudulent transactions.
 * **Modelos_Hackathon.ipynb:** Based on **fraud.csv**, several neural networks are generated with TensorFlow for the detection of fraudulent transactions, obtaining the best prediction model here.
 * **crew_ai_csv_decode.py:** Python code that uses LLM to generate reports and insights of interest from fraud.csv.
-* 
-## flask-react
 
 ## Demonstrations
 
-
-There was an attempt to create a backend api in Flask and connect it directly with a frontend developed in React, with the purpose of showing the most relevant information we gathered in our analysis.
 
 Contains the demo video of some tests of the fraudulent transaction prediction model, as well as the presentation used for the Capital One presentation.
 * **Final presentation.pdf**
