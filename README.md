@@ -1,5 +1,5 @@
 # repo_HACKATHON_2024
-Official repository of the Datacoders team, where analyses were conducted for Capital One’s organization in the 2024 HACKATHON.
+Official repository of the Datacoders team, where analyses were conducted for Capital One's organization in the 2024 HACKATHON.
 
 ## Members of DataCoders
 * Luis Maximiliano López Ramírez - A00833321
@@ -21,7 +21,7 @@ To address the growing issue of fraud in transactions, an effective solution has
 
 Here are the datasets generated from the scripts.
 * **fraud.csv**
-
+* **heybanco.csv**
 ## Scripts
 
 Contains the .py and .ipynb codes for solving the stated problem.
