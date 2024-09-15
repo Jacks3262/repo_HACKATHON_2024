@@ -33,6 +33,9 @@ Contains the .py and .ipynb codes for solving the stated problem.
 
 ## Demonstrations
 
+## flask-react
+There was an attempt to create a backend api in Flask and connect it directly with a frontend developed in React, with the purpose of showing the most relevant information we gathered in our analysis.
+
 Contains the demo video of some tests of the fraudulent transaction prediction model, as well as the presentation used for the Capital One presentation.
 * **Final presentation.pdf**
 * **Video_Hackathon_2.mp4**
