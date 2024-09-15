@@ -1,38 +1,39 @@
 # repo_HACKATHON_2024
-Repositorio oficial del equipo Datacoders, donde se realizaron análisis para la organización de Capital One en el HACKATHON 2024.
+Official repository of the Datacoders team, where analyses were conducted for Capital One’s organization in the 2024 HACKATHON.
 
-## Integrantes del Equipo DataCoders
+## Members of DataCoders
 * Luis Maximiliano López Ramírez - A00833321
 * Dilan González Castañeda - A00831905
 * Rogelio Lizárraga Escobar - A01742161
 * Adrian Pineda Sánxhez - A00834710
 
-# Proyecto con Capital One
+# Proyect with Capital One
 
-La problemática de fraudes en transacciones es un desafío creciente para empresas y consumidores a nivel global. A medida que las transacciones digitales se expanden y se diversifican, surgen nuevas oportunidades para los estafadores que buscan vulnerar los sistemas de pago. Los fraudes pueden manifestarse de diversas formas, desde el uso indebido de tarjetas de crédito hasta la suplantación de identidad y la manipulación de transacciones en plataformas en línea. Estos incidentes no solo generan pérdidas económicas significativas, sino que también erosionan la confianza de los clientes y dañan la reputación de las empresas afectadas.
+The issue of fraud in transactions is a growing challenge for businesses and consumers worldwide. As digital transactions expand and diversify, new opportunities arise for fraudsters seeking to exploit payment systems. Frauds can take various forms, from credit card misuse to identity theft and transaction manipulation on online platforms. These incidents not only cause significant financial losses but also erode customer trust and damage the reputation of the affected companies.
 
 # Solución
 
-Para abordar la creciente problemática de fraudes en transacciones, una solución efectiva ha sido la implementación de herramientas de machine learning y el uso de TensorFlow para redes neuronales, las cuales permiten clasificar de manera eficiente las transacciones fraudulentas. Estas tecnologías analizan grandes volúmenes de datos en tiempo real, identificando patrones sospechosos y anomalías que podrían indicar un fraude. A través del aprendizaje supervisado y no supervisado, los modelos de machine learning se entrenan con datos históricos de transacciones, lo que les permite detectar comportamientos atípicos con alta precisión. TensorFlow, con su capacidad para desarrollar redes neuronales complejas, potencia la detección automatizada de fraudes mediante modelos de clasificación que aprenden continuamente y se adaptan a nuevas tácticas fraudulentas.
+To address the growing issue of fraud in transactions, an effective solution has been the implementation of machine learning tools and the use of TensorFlow for neural networks, which efficiently classify fraudulent transactions. These technologies analyze large volumes of data in real-time, identifying suspicious patterns and anomalies that could indicate fraud. Through supervised and unsupervised learning, machine learning models are trained with historical transaction data, allowing them to detect atypical behaviors with high accuracy. TensorFlow, with its ability to develop complex neural networks, enhances automated fraud detection through classification models that continuously learn and adapt to new fraudulent tactics.
 
-# Distribución de archivos
+# File's distribution
 
 ## Datasets
 
-Aquí se encuentran los datasets generados a partir de los scripts.
+Here are the datasets generated from the scripts.
 * **fraud.csv**
 
 ## Scripts
 
-Contiene los códigos en .py y .ipynb para solución de la problemática planteada.
-* **Fraude.py:** Realiza la transformación del dataset original para la creación de columnas de interés generando **fraud.csv**
-* **Modelos_Convencionales.ipynb:** A partir de **fraud.csv** se generan modelos convencionales de Machine Learning para la detección de transacciones fraudolentas.
-* **Modelos_Hackathon.ipynb:** A partir de **fraud.csv** se generan varias redes neuronales con TensorFlow para la detección de transacciones fraudolentas obteniendo aquí el mejor modelo de predicción.
-* **crew_ai_csv_decode.py:** Código de Python que utiliza LLM para generar reportes e insights de interés a partir de **fraud.csv**
+Contains the .py and .ipynb codes for solving the stated problem.
+
+* **Fraud.py:** Performs the transformation of the original dataset to create columns of interest, generating **fraud.csv.**
+* **Modelos_Convencionales.ipynb:** Based on **fraud.csv**, conventional Machine Learning models are generated for the detection of fraudulent transactions.
+* **Modelos_Hackathon.ipynb:** Based on **fraud.csv**, several neural networks are generated with TensorFlow for the detection of fraudulent transactions, obtaining the best prediction model here.
+* **crew_ai_csv_decode.py:** Python code that uses LLM to generate reports and insights of interest from fraud.csv.
 
 ## Demonstrations
 
-Contiene el video demo de algunas pruebas del modelo de predicción de transacciones fruadolentas además de contener la presentación usada para exponer ante Capital One.
+Contains the demo video of some tests of the fraudulent transaction prediction model, as well as the presentation used for the Capital One presentation.
 * **Final presentation.pdf**
 * **Video_Hackathon_2.mp4**
 
