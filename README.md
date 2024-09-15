@@ -19,7 +19,7 @@ To address the growing issue of fraud in transactions, an effective solution has
 
 ## Datasets
 
-Here are the datasets generated from the scripts.
+Here are the datasets generated from the scripts and the original dataset.
 * **fraud.csv**
 * **heybanco.csv**
 ## Scripts
