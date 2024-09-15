@@ -11,7 +11,7 @@ Official repository of the Datacoders team, where analyses were conducted for Ca
 
 The issue of fraud in transactions is a growing challenge for businesses and consumers worldwide. As digital transactions expand and diversify, new opportunities arise for fraudsters seeking to exploit payment systems. Frauds can take various forms, from credit card misuse to identity theft and transaction manipulation on online platforms. These incidents not only cause significant financial losses but also erode customer trust and damage the reputation of the affected companies.
 
-# Solución
+# Solution
 
 To address the growing issue of fraud in transactions, an effective solution has been the implementation of machine learning tools and the use of TensorFlow for neural networks, which efficiently classify fraudulent transactions. These technologies analyze large volumes of data in real-time, identifying suspicious patterns and anomalies that could indicate fraud. Through supervised and unsupervised learning, machine learning models are trained with historical transaction data, allowing them to detect atypical behaviors with high accuracy. TensorFlow, with its ability to develop complex neural networks, enhances automated fraud detection through classification models that continuously learn and adapt to new fraudulent tactics.
 
