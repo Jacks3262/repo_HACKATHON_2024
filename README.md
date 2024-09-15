@@ -36,5 +36,3 @@ Contains the .py and .ipynb codes for solving the stated problem.
 Contains the demo video of some tests of the fraudulent transaction prediction model, as well as the presentation used for the Capital One presentation.
 * **Final presentation.pdf**
 * **Video_Hackathon_2.mp4**
-
-## flask-react
